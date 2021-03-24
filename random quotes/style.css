@@ -23,7 +23,6 @@
 }
 .content {
     padding: 2em;
-    letter-spacing: 1.1;
 }
 .author {
     position: absolute;
@@ -31,8 +30,7 @@
     right: 3em;
 }
 .quote {
-    font-family: 'New Tegomin',serif;
-    
+    font-family: 'New Tegomin',serif;   
 }
 h2 {
     position: relative;
@@ -55,7 +53,6 @@ h2::after {
     padding: 2em;
 
 }
-
 .btn {
     outline: none;
     border: none;
@@ -68,7 +65,6 @@ h2::after {
     color: white;
     transition: all .2s ease-in-out;
 }
-
 .btn:hover {
     background-color: rgb(157, 104, 5);
 }
